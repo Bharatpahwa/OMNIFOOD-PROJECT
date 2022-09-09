@@ -566,3 +566,7 @@ button:hover {
   transform: scale(1.2);
   background-color: #000000;
 }
+
+#hamburger{
+  display:none
+}
